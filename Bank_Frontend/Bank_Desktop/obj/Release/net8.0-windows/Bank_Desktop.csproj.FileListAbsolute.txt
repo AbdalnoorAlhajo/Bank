@@ -1,0 +1,7 @@
+C:\Users\Abdalrahman\Desktop\Projects\Bank_Desktop\obj\Release\net8.0-windows\Bank_Desktop.frmLogin.resources
+C:\Users\Abdalrahman\Desktop\Projects\Bank_Desktop\obj\Release\net8.0-windows\Bank_Desktop.Properties.Resources.resources
+C:\Users\Abdalrahman\Desktop\Projects\Bank_Desktop\obj\Release\net8.0-windows\Bank_Desktop.csproj.GenerateResource.cache
+C:\Users\Abdalrahman\Desktop\Projects\Bank_Desktop\obj\Release\net8.0-windows\Bank_Desktop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdalrahman\Desktop\Projects\Bank_Desktop\obj\Release\net8.0-windows\Bank_Desktop.AssemblyInfoInputs.cache
+C:\Users\Abdalrahman\Desktop\Projects\Bank_Desktop\obj\Release\net8.0-windows\Bank_Desktop.AssemblyInfo.cs
+C:\Users\Abdalrahman\Desktop\Projects\Bank_Desktop\obj\Release\net8.0-windows\Bank_Desktop.csproj.CoreCompileInputs.cache
