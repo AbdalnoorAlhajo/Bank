@@ -8,11 +8,14 @@ config.json
 **/obj/
 
 # Ignore Visual Studio specific files
-.vs/
+**/.vs/
+*.user
 
 # Ignore user-specific files
-*.user
 *.suo
+
+# Ignore .http files in all solution levels
+**/*.http
 
 # Ignore temporary files and directories
 *.tmp

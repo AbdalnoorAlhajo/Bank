@@ -8,7 +8,7 @@ config.json
 **/obj/
 
 # Ignore Visual Studio specific files
-.vs/
+.vs
 
 # Ignore user-specific files
 *.user
