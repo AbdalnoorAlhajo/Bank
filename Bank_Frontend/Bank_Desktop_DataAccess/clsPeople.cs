@@ -69,7 +69,7 @@ namespace Bank_Desktop_DataAccess
         static clsPeople()
         {
             // Base address of the API endpoint for People-related operations.
-            _httpClient.BaseAddress = new Uri("https://localhost:0000/api/BankAPI_People/");
+            _httpClient.BaseAddress = new Uri("https://localhost:7207/api/BankAPI_People/");
         }
 
 

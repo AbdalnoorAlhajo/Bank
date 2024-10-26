@@ -54,7 +54,7 @@ namespace ExchangeRate_Online_API
         static clsRates()
         {
             // Base address of the API endpoint for ExchangeRate_OnlineAPI operations.
-            _httpClient.BaseAddress = new Uri("https://v6.exchangerate-api.com/v6/000000000000/");
+            _httpClient.BaseAddress = new Uri("https://v6.exchangerate-api.com/v6/7506f79b554ae28e66a4c9d675/");
         }
 
         /// <summary>

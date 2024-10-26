@@ -40,7 +40,7 @@ namespace Bank_Desktop_DataAccess
         static clsLoginActivities()
         {
             // Base address of the API endpoint for Login Activities-related operations.
-            _httpClient.BaseAddress = new Uri("https://localhost:0000/api/BankAPI_LoginActivities/");
+            _httpClient.BaseAddress = new Uri("https://localhost:7207/api/BankAPI_LoginActivities/");
         }
 
         /// <summary>

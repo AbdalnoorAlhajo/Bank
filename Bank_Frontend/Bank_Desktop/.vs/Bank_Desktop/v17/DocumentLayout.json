@@ -1,27 +1,27 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Abdalrahman\\Desktop\\Projects\\Bank\\Bank_Frontend\\Bank_Desktop\\",
+  "WorkspaceRootPath": "C:\\Users\\Abdalrahman\\Desktop\\Projects\\From Github\\Bank_Frontend\\Bank_Desktop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D26B6CE8-7615-4173-BFB4-28B081872346}|..\\Bank_Desktop_DataAccess\\Bank_Desktop_DataAccess.csproj|c:\\users\\abdalrahman\\desktop\\projects\\bank\\bank_frontend\\bank_desktop_dataaccess\\clsclients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D26B6CE8-7615-4173-BFB4-28B081872346}|..\\Bank_Desktop_DataAccess\\Bank_Desktop_DataAccess.csproj|c:\\users\\abdalrahman\\desktop\\projects\\from github\\bank_frontend\\bank_desktop_dataaccess\\clscurrenciesexchange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D26B6CE8-7615-4173-BFB4-28B081872346}|..\\Bank_Desktop_DataAccess\\Bank_Desktop_DataAccess.csproj|c:\\users\\abdalrahman\\desktop\\projects\\bank\\bank_frontend\\bank_desktop_dataaccess\\clscountries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D26B6CE8-7615-4173-BFB4-28B081872346}|..\\Bank_Desktop_DataAccess\\Bank_Desktop_DataAccess.csproj|c:\\users\\abdalrahman\\desktop\\projects\\from github\\bank_frontend\\bank_desktop_dataaccess\\clsclients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D26B6CE8-7615-4173-BFB4-28B081872346}|..\\Bank_Desktop_DataAccess\\Bank_Desktop_DataAccess.csproj|c:\\users\\abdalrahman\\desktop\\projects\\bank\\bank_frontend\\bank_desktop_dataaccess\\clscurrenciesexchange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D26B6CE8-7615-4173-BFB4-28B081872346}|..\\Bank_Desktop_DataAccess\\Bank_Desktop_DataAccess.csproj|c:\\users\\abdalrahman\\desktop\\projects\\from github\\bank_frontend\\bank_desktop_dataaccess\\clscountries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D26B6CE8-7615-4173-BFB4-28B081872346}|..\\Bank_Desktop_DataAccess\\Bank_Desktop_DataAccess.csproj|c:\\users\\abdalrahman\\desktop\\projects\\bank\\bank_frontend\\bank_desktop_dataaccess\\clsloginactivities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D26B6CE8-7615-4173-BFB4-28B081872346}|..\\Bank_Desktop_DataAccess\\Bank_Desktop_DataAccess.csproj|c:\\users\\abdalrahman\\desktop\\projects\\from github\\bank_frontend\\bank_desktop_dataaccess\\clsloginactivities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D26B6CE8-7615-4173-BFB4-28B081872346}|..\\Bank_Desktop_DataAccess\\Bank_Desktop_DataAccess.csproj|c:\\users\\abdalrahman\\desktop\\projects\\bank\\bank_frontend\\bank_desktop_dataaccess\\clspeople.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D26B6CE8-7615-4173-BFB4-28B081872346}|..\\Bank_Desktop_DataAccess\\Bank_Desktop_DataAccess.csproj|c:\\users\\abdalrahman\\desktop\\projects\\from github\\bank_frontend\\bank_desktop_dataaccess\\clspeople.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D26B6CE8-7615-4173-BFB4-28B081872346}|..\\Bank_Desktop_DataAccess\\Bank_Desktop_DataAccess.csproj|c:\\users\\abdalrahman\\desktop\\projects\\bank\\bank_frontend\\bank_desktop_dataaccess\\clstransferlogs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D26B6CE8-7615-4173-BFB4-28B081872346}|..\\Bank_Desktop_DataAccess\\Bank_Desktop_DataAccess.csproj|c:\\users\\abdalrahman\\desktop\\projects\\from github\\bank_frontend\\bank_desktop_dataaccess\\clstransferlogs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D26B6CE8-7615-4173-BFB4-28B081872346}|..\\Bank_Desktop_DataAccess\\Bank_Desktop_DataAccess.csproj|c:\\users\\abdalrahman\\desktop\\projects\\bank\\bank_frontend\\bank_desktop_dataaccess\\clsusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D26B6CE8-7615-4173-BFB4-28B081872346}|..\\Bank_Desktop_DataAccess\\Bank_Desktop_DataAccess.csproj|c:\\users\\abdalrahman\\desktop\\projects\\from github\\bank_frontend\\bank_desktop_dataaccess\\clsusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,7 +31,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -43,93 +43,93 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "clsClients.cs",
-              "DocumentMoniker": "C:\\Users\\Abdalrahman\\Desktop\\Projects\\Bank\\Bank_Frontend\\Bank_Desktop_DataAccess\\clsClients.cs",
-              "RelativeDocumentMoniker": "..\\Bank_Desktop_DataAccess\\clsClients.cs",
-              "ToolTip": "C:\\Users\\Abdalrahman\\Desktop\\Projects\\Bank\\Bank_Frontend\\Bank_Desktop_DataAccess\\clsClients.cs",
-              "RelativeToolTip": "..\\Bank_Desktop_DataAccess\\clsClients.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAA7wCAAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T07:59:00.087Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "clsCountries.cs",
-              "DocumentMoniker": "C:\\Users\\Abdalrahman\\Desktop\\Projects\\Bank\\Bank_Frontend\\Bank_Desktop_DataAccess\\clsCountries.cs",
-              "RelativeDocumentMoniker": "..\\Bank_Desktop_DataAccess\\clsCountries.cs",
-              "ToolTip": "C:\\Users\\Abdalrahman\\Desktop\\Projects\\Bank\\Bank_Frontend\\Bank_Desktop_DataAccess\\clsCountries.cs",
-              "RelativeToolTip": "..\\Bank_Desktop_DataAccess\\clsCountries.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAgwC0AAABFAAAAAAAAAA==",
+              "Title": "clsClients.cs",
+              "DocumentMoniker": "C:\\Users\\Abdalrahman\\Desktop\\Projects\\From Github\\Bank_Frontend\\Bank_Desktop_DataAccess\\clsClients.cs",
+              "RelativeDocumentMoniker": "..\\Bank_Desktop_DataAccess\\clsClients.cs",
+              "ToolTip": "C:\\Users\\Abdalrahman\\Desktop\\Projects\\From Github\\Bank_Frontend\\Bank_Desktop_DataAccess\\clsClients.cs",
+              "RelativeToolTip": "..\\Bank_Desktop_DataAccess\\clsClients.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwCYAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T07:58:52.763Z",
+              "WhenOpened": "2024-10-26T17:25:04.655Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "clsCurrenciesExchange.cs",
-              "DocumentMoniker": "C:\\Users\\Abdalrahman\\Desktop\\Projects\\Bank\\Bank_Frontend\\Bank_Desktop_DataAccess\\clsCurrenciesExchange.cs",
-              "RelativeDocumentMoniker": "..\\Bank_Desktop_DataAccess\\clsCurrenciesExchange.cs",
-              "ToolTip": "C:\\Users\\Abdalrahman\\Desktop\\Projects\\Bank\\Bank_Frontend\\Bank_Desktop_DataAccess\\clsCurrenciesExchange.cs",
-              "RelativeToolTip": "..\\Bank_Desktop_DataAccess\\clsCurrenciesExchange.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAA+wDgAAABeAAAAAAAAAA==",
+              "Title": "clsCountries.cs",
+              "DocumentMoniker": "C:\\Users\\Abdalrahman\\Desktop\\Projects\\From Github\\Bank_Frontend\\Bank_Desktop_DataAccess\\clsCountries.cs",
+              "RelativeDocumentMoniker": "..\\Bank_Desktop_DataAccess\\clsCountries.cs",
+              "ToolTip": "C:\\Users\\Abdalrahman\\Desktop\\Projects\\From Github\\Bank_Frontend\\Bank_Desktop_DataAccess\\clsCountries.cs",
+              "RelativeToolTip": "..\\Bank_Desktop_DataAccess\\clsCountries.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwC0AAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T07:58:32.55Z",
+              "WhenOpened": "2024-10-26T17:25:00.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "clsCurrenciesExchange.cs",
+              "DocumentMoniker": "C:\\Users\\Abdalrahman\\Desktop\\Projects\\From Github\\Bank_Frontend\\Bank_Desktop_DataAccess\\clsCurrenciesExchange.cs",
+              "RelativeDocumentMoniker": "..\\Bank_Desktop_DataAccess\\clsCurrenciesExchange.cs",
+              "ToolTip": "C:\\Users\\Abdalrahman\\Desktop\\Projects\\From Github\\Bank_Frontend\\Bank_Desktop_DataAccess\\clsCurrenciesExchange.cs",
+              "RelativeToolTip": "..\\Bank_Desktop_DataAccess\\clsCurrenciesExchange.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAA3wDgAAABsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T17:24:50.119Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "clsLoginActivities.cs",
-              "DocumentMoniker": "C:\\Users\\Abdalrahman\\Desktop\\Projects\\Bank\\Bank_Frontend\\Bank_Desktop_DataAccess\\clsLoginActivities.cs",
+              "DocumentMoniker": "C:\\Users\\Abdalrahman\\Desktop\\Projects\\From Github\\Bank_Frontend\\Bank_Desktop_DataAccess\\clsLoginActivities.cs",
               "RelativeDocumentMoniker": "..\\Bank_Desktop_DataAccess\\clsLoginActivities.cs",
-              "ToolTip": "C:\\Users\\Abdalrahman\\Desktop\\Projects\\Bank\\Bank_Frontend\\Bank_Desktop_DataAccess\\clsLoginActivities.cs",
+              "ToolTip": "C:\\Users\\Abdalrahman\\Desktop\\Projects\\From Github\\Bank_Frontend\\Bank_Desktop_DataAccess\\clsLoginActivities.cs",
               "RelativeToolTip": "..\\Bank_Desktop_DataAccess\\clsLoginActivities.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAkwCoAAABFAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAzwCoAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T07:58:28.047Z",
+              "WhenOpened": "2024-10-26T17:24:50.436Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "clsPeople.cs",
-              "DocumentMoniker": "C:\\Users\\Abdalrahman\\Desktop\\Projects\\Bank\\Bank_Frontend\\Bank_Desktop_DataAccess\\clsPeople.cs",
+              "DocumentMoniker": "C:\\Users\\Abdalrahman\\Desktop\\Projects\\From Github\\Bank_Frontend\\Bank_Desktop_DataAccess\\clsPeople.cs",
               "RelativeDocumentMoniker": "..\\Bank_Desktop_DataAccess\\clsPeople.cs",
-              "ToolTip": "C:\\Users\\Abdalrahman\\Desktop\\Projects\\Bank\\Bank_Frontend\\Bank_Desktop_DataAccess\\clsPeople.cs",
+              "ToolTip": "C:\\Users\\Abdalrahman\\Desktop\\Projects\\From Github\\Bank_Frontend\\Bank_Desktop_DataAccess\\clsPeople.cs",
               "RelativeToolTip": "..\\Bank_Desktop_DataAccess\\clsPeople.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAAAcwEcAAABFAAAAAAAAAA==",
+              "ViewState": "AgIAACYAAAAAAAAAAAAUwEcAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T07:58:22.504Z",
+              "WhenOpened": "2024-10-26T17:24:44.573Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "clsTransferLogs.cs",
-              "DocumentMoniker": "C:\\Users\\Abdalrahman\\Desktop\\Projects\\Bank\\Bank_Frontend\\Bank_Desktop_DataAccess\\clsTransferLogs.cs",
+              "DocumentMoniker": "C:\\Users\\Abdalrahman\\Desktop\\Projects\\From Github\\Bank_Frontend\\Bank_Desktop_DataAccess\\clsTransferLogs.cs",
               "RelativeDocumentMoniker": "..\\Bank_Desktop_DataAccess\\clsTransferLogs.cs",
-              "ToolTip": "C:\\Users\\Abdalrahman\\Desktop\\Projects\\Bank\\Bank_Frontend\\Bank_Desktop_DataAccess\\clsTransferLogs.cs",
+              "ToolTip": "C:\\Users\\Abdalrahman\\Desktop\\Projects\\From Github\\Bank_Frontend\\Bank_Desktop_DataAccess\\clsTransferLogs.cs",
               "RelativeToolTip": "..\\Bank_Desktop_DataAccess\\clsTransferLogs.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAswD4AAABFAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwD4AAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T07:58:14.657Z",
+              "WhenOpened": "2024-10-26T17:24:37.614Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "clsUsers.cs",
-              "DocumentMoniker": "C:\\Users\\Abdalrahman\\Desktop\\Projects\\Bank\\Bank_Frontend\\Bank_Desktop_DataAccess\\clsUsers.cs",
+              "DocumentMoniker": "C:\\Users\\Abdalrahman\\Desktop\\Projects\\From Github\\Bank_Frontend\\Bank_Desktop_DataAccess\\clsUsers.cs",
               "RelativeDocumentMoniker": "..\\Bank_Desktop_DataAccess\\clsUsers.cs",
-              "ToolTip": "C:\\Users\\Abdalrahman\\Desktop\\Projects\\Bank\\Bank_Frontend\\Bank_Desktop_DataAccess\\clsUsers.cs",
+              "ToolTip": "C:\\Users\\Abdalrahman\\Desktop\\Projects\\From Github\\Bank_Frontend\\Bank_Desktop_DataAccess\\clsUsers.cs",
               "RelativeToolTip": "..\\Bank_Desktop_DataAccess\\clsUsers.cs",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAswE0AAABFAAAAAAAAAA==",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAswEkAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T07:57:11.949Z",
+              "WhenOpened": "2024-10-26T17:24:07.51Z",
               "EditorCaption": ""
             }
           ]
