@@ -41,7 +41,7 @@ This project showcases my skills in backend development, API design, and adheren
 - **Framework**: ASP.NET core Web API (Backend), Windows Forms App (Frontend)
 - **Architecture**: 3-Tier (Backend) and 2-Tier (Frontend)
 - **API Design**: RESTful APIs
-- **Database**: MS SQL Server
+- **Database**: MS SQL Server, ADO.NET
 
 ---
 
