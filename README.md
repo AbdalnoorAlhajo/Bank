@@ -27,6 +27,12 @@ This project showcases my skills in backend development, API design, and adheren
   - **2-Tier Architecture**:
     - **Presentation Layer**: User interface for client interactions.
     - **Data Access Layer**: Handles communication with the backend APIs.
+      
+- **Database**: 
+  - Designed using SQL with a focus on relational database principles to ensure data integrity and scalability.
+  - Developed optimized stored procedures for complex queries, improving execution time and system performance.
+  - Incorporated primary and foreign keys to ensure referential integrity and support relationships between entities (e.g., Users, Clients, and Accounts).
+  - Used indexing and query optimization techniques to enhance database performance.
 
 ---
 
@@ -42,11 +48,3 @@ This project showcases my skills in backend development, API design, and adheren
 - **Architecture**: 3-Tier (Backend) and 2-Tier (Frontend)
 - **API Design**: RESTful APIs
 - **Database**: MS SQL Server, ADO.NET
-
----
-
-## Getting Started
-To run the Bank System locally, follow these steps:
-1. Open Visual Studio Community 2022 (or any other IDE).
-2. Select "Clone a repository."
-3. Enter this URL: https://github.com/AbdalnoorAlhajo/Bank.git
